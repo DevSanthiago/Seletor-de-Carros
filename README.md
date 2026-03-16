@@ -49,7 +49,7 @@ Seletor-de-Carros/
 
 ## 🚀 Como Executar
 1- Clone o repositório:
-```git clone https://github.com/JohnReiiss/Seletor-de-Carros.git```
+```git clone https://github.com/DevSanthiago/Seletor-de-Carros.git```
 
 2- Abra index.html no navegador
 
@@ -71,7 +71,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 - Clone o repositório
 
 ```bash
-git clone https://github.com/JohnReiiss/Spotify-Clone.git
+git clone https://github.com/DevSanthiago/Spotify-Clone.git
 ````
 - Abra o arquivo index.html em seu navegador
 
