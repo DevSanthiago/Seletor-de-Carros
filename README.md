@@ -61,7 +61,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 <div align="center"> 
   <p>Desenvolvido por <a href="https://github.com/DevSanthiago" target="_blank" rel="noopener noreferrer">John Reis</a></p>
-  <p>🔗 <strong>Link do projeto</strong>: <a href="https://devsanthiago.github.io/Seletor-de-Carros/" target="_blank" rel="noopener noreferrer">github.com/JohnReiiss/Seletor-de-Carros</a></p> 
+  <p>🔗 <strong>Link do projeto</strong>: <a href="https://devsanthiago.github.io/Seletor-de-Carros/" target="_blank" rel="noopener noreferrer">github.com/DevSanthiago/Seletor-de-Carros</a></p> 
 </div>
 
 ---
